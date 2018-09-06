@@ -97,7 +97,7 @@ Nếu bạn muốn tạo được ấn tượng tốt trong cuộc phỏng vấn
 
 (Và một loạt các thứ khác nữa nhưng tôi sẽ không nêu ra ở đây).
 
-Đừng quá vội vàng bỏ qua các khái niệm này.
+Đừng vội lao vào những khái niệm này.
 
 Bạn không thể học tất cả mọi thứ trong một ngày. Nó sẽ mất nhiều thời gian.
 
@@ -115,7 +115,7 @@ Nhưng chờ đã, **một engine là gì**?
 
 Đó, Javascript engine là một "công cụ" thực thi code Javascript.
 
-Hiện nay có hay Javascript engine nổi bật là: **Google V8** và **SpiderMonkey**.
+Hiện nay có hai Javascript engine nổi bật là: **Google V8** và **SpiderMonkey**.
 
 V8 là một Javascript engine mã nguồn mở của Google, được sử dụng cho Google Chrome và Node.js.
 
@@ -131,7 +131,7 @@ Bây giờ là lúc để hiểu chúng làm việc với nhau như thế nào.
 
 Execution Context là một từ ưa thích để mô tả về môi trường mà code Javascript của bạn chạy.
 
- tôi có thể hiểu được bạn đang khó để hình dung được những thứ trừu tượng này.
+Tôi có thể hiểu được bạn đang khó để hình dung được những thứ trừu tượng này.
 
 Bây giờ hãy nghĩ Global Execution Context như là một cái hộp:
 
@@ -169,7 +169,7 @@ Nó chỉ là **khai báo hàm**, không phải là lời gọi hàm.
 
 **Global Memory**?
 
-Valentino, Tôi đã đang nhầm lẫn về Execution Context và giờ bạn còn ném cả Global Memory vào tôi?
+Valentino, Tôi đã đang mơ hồ về Execution Context và giờ bạn còn ném cả Global Memory vào tôi?
 
 Vâng, đúng thế.
 
